@@ -3,7 +3,7 @@
 例如 4+5=9 这个算术表达式，“4” 和“5” 称为“操作数”、"+" 称为运算符。
 
 Python语言支持以下类型的运算符：
-* [算术运算符](https://github.com/haohaodada/python/blob/master/Python3%20%E8%BF%90%E7%AE%97%E7%AC%A6.md#算术运算符)
+* [算术运算符](#算术运算符)
 * [赋值运算符](https://github.com/haohaodada/python/blob/master/Python3%20%E8%BF%90%E7%AE%97%E7%AC%A6.md#赋值运算符)
 * 比较（关系）运算符
 * 逻辑运算符
